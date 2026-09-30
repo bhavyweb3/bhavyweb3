@@ -141,18 +141,6 @@ A Spotify-inspired music player interface built using:
 `Open Source`
 
 ---
-
-# 📚 Currently Learning
-
-Blockchain & Web3
-        ↓
-Smart Contracts & Solidity
-        ↓
-dApp Development
-        ↓
-Smart Contract Security
-        ↓
-DSA & Problem Solving
 # 🎯 Goals
 
 ## 💻 Technical Goals
