@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=BLOCKCHAIN+DEVELOPER;WEB3+ENTHUSIAST;SMART+CONTRACT+DEVELOPER;C%2B%2B+%7C+PYTHON+%7C+JAVA+%7C+SOLIDITY" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=BLOCKCHAIN+DEVELOPER;WEB3+ENTHUSIAST;SMART+CONTRACT+DEVELOPER;C%2B%2B+%7C+PYTHON+%7C+JAVA;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -144,30 +144,13 @@ const Bhavya = {
 </p>
 
 ---
-
-## 🐍 Contribution Graph
+<h2>🐍 Contribution Graph</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/bhavyweb3/bhavyweb3/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/bhavyweb3/bhavyweb3/output/github-snake.svg"
-    />
-
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/bhavyweb3/bhavyweb3/output/github-snake.svg"
-    />
-  </picture>
+  <img src="https://raw.githubusercontent.com/bhavyweb3/bhavyweb3/output/github-snake.svg" alt="Contribution Snake">
 </p>
 
 ---
-
 ## 💭 Daily Quote
 
 <p align="center">
