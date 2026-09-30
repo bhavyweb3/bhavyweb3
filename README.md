@@ -1,109 +1,110 @@
-#      👋 Hi, I'm Bhavya Goel
+# 👋 Hi, I'm Bhavya Goel
 
-###    🔗 Blockchain Developer | 💻 Web Developer | 🎓 CSE Blockchain Student
+### Blockchain Developer · Web3 Enthusiast · CSE Blockchain Student
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3+Enthusiast;Smart+Contract+Developer;C%2B%2B+%7C+Python+%7C+Java+%7C+Solidity;Building+Projects+and+Learning+Every+Day!&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3+Enthusiast;Smart+Contract+Developer;C%2B%2B+%7C+Python+%7C+Java+%7C+Solidity;Building+and+Learning+Every+Day&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=1000" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/bhavyweb3">
+    <img src="https://komarev.com/ghpvc/?username=bhavyweb3&label=Profile%20Views&style=flat-square" />
+  </a>
+  <a href="https://github.com/bhavyweb3?tab=followers">
+    <img src="https://img.shields.io/github/followers/bhavyweb3?style=flat-square&label=Followers" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* 🎓 B.Tech Computer Science & Engineering — **Blockchain**
-* 🔗 Interested in **Blockchain Development & Web3**
-* 💻 Currently working with **C++, Python, Java & Solidity**
-* 🧠 Learning **Data Structures & Algorithms**
-* ⛓️ Building projects using **Blockchain & Smart Contracts**
-* 🌐 Interested in **Web Development**
-* 🥊 Boxing player and fitness enthusiast
-* 🎵 Love music, coding and learning new technologies
+I'm a **Computer Science & Engineering student specializing in Blockchain**, interested in building practical applications around **Blockchain, Web3 and Smart Contracts**.
 
----
+I enjoy turning ideas into working projects while continuously improving my programming, problem-solving and development skills.
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### 🔗 Blockchain & Web3
-
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge\&logo=metamask\&logoColor=white)
-
-**Blockchain Tools:**
-`Remix IDE` • `MetaMask` • `Ganache` • `Sepolia` • `Smart Contracts`
-
-### 🧰 Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+* 🎓 B.Tech — Computer Science & Engineering (Blockchain)
+* 🔗 Focus: **Blockchain Development & Web3**
+* 💻 Languages: **C++, Python, Java, Solidity**
+* 🌐 Web: **HTML, CSS, JavaScript**
+* 🧠 Currently strengthening **DSA & problem solving**
+* ⛓️ Exploring **Smart Contracts & Decentralized Applications**
+* 🥊 Boxing & fitness enthusiast
 
 ---
 
-## 🚀 Projects
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,solidity,c" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Blockchain & Web3
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+</p>
+
+`Solidity` · `Smart Contracts` · `Remix IDE` · `MetaMask` · `Ganache` · `Sepolia`
+
+### Tools & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+</p>
+
+---
+
+## Featured Projects
 
 ### 🔐 Decentralized Voting System
 
-A blockchain-based voting platform designed to provide a secure and transparent voting process.
+A blockchain-based voting platform designed to provide a transparent and secure voting process.
 
-**Technologies:**
+**Tech:** `HTML` `CSS` `JavaScript` `Solidity` `Remix` `MetaMask` `Blockchain`
 
-`HTML` `CSS` `JavaScript` `Solidity` `Blockchain` `Remix` `MetaMask`
+**Key Features**
 
-**Features:**
-
-* 🔗 Blockchain-based vote recording
-* 🔐 Secure voting process
-* 📋 Smart-contract based voting
-* 👁️ Transparent transaction records
-* 🚫 Designed to prevent duplicate voting
-* ⛓️ Decentralized vote management
+* Blockchain-based vote recording
+* Smart-contract based voting
+* Transparent transaction records
+* Designed to prevent duplicate voting
+* Decentralized vote management
 
 ---
 
 ### 🏠 LandChain — Blockchain Land Registry
 
-A blockchain-based land registration project focused on maintaining property records using blockchain technology.
+A blockchain-based land registration system for maintaining digital property records.
 
-**Technologies:**
+**Tech:** `Python` `Blockchain` `HTML` `CSS` `JavaScript`
 
-`Python` `Blockchain` `HTML` `CSS` `JavaScript`
+**Key Concepts**
 
-**Concepts:**
-
-* 🔗 Blockchain-based records
-* 🏠 Digital land ownership records
-* 🔐 Tamper-resistant data
-* 📜 Property transaction history
+* Digital land ownership records
+* Blockchain-based record management
+* Tamper-resistant data
+* Property transaction history
 
 ---
 
 ### 🔑 Secure Password Manager
 
-A password-management project designed to securely store and manage user credentials.
+A password management application focused on securely storing and managing credentials.
 
-**Technologies:**
-
-`Python` `SQL`
+**Tech:** `Python` `SQL`
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```text
 Blockchain Development
@@ -114,129 +115,96 @@ Solidity
         ↓
 Web3 Development
         ↓
-Advanced DSA
+DSA & Problem Solving
 ```
 
 ---
 
-## 🧠 Programming & CS
+## Areas of Interest
 
 ```text
-C++          ███████████████████░░
-Python       ██████████████████░░░
-Java         ███████████████░░░░░
-Solidity     █████████████░░░░░░░
-DSA          ███████████████░░░░░
-Blockchain   █████████████████░░░░
+Blockchain       ████████████████████
+Web3             ██████████████████░░
+Solidity         ████████████████░░░░
+C++              ███████████████████░
+Python            ██████████████████░░
+DSA              ███████████████░░░░░
 ```
 
 ---
 
-## 🎯 Goals
+## Goals
 
-* 🚀 Become a strong Blockchain Developer
-* ⛓️ Build practical Web3 applications
-* 🧠 Improve DSA and problem-solving skills
-* 💻 Contribute to open-source projects
-* 🔐 Learn more about smart contract security
-* 🌐 Explore decentralized applications
+* Build practical **Blockchain & Web3 applications**
+* Develop strong **Smart Contract** development skills
+* Improve **DSA and problem-solving**
+* Learn more about **Smart Contract Security**
+* Contribute to **Open Source**
+* Continue building real-world projects
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=bhavyaweb3&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=bhavyweb3&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhavyweb3&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bhavyweb3&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bhavyaweb3&theme=dark&hide_border=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavyweb3&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 ---
 
-## 💻 Most Used Languages
+## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhavyaweb3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## Connect
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavyaweb3&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 📈 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bhavyaweb3&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/bhavyweb3">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/bhavya-goel-60544b364">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:bhavyagoel01102006@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ A Little About Me
 
-> **I Love Tech and Tech Love Me.** 😎💻
+> **Build. Learn. Improve. Repeat.**
+
+I'm always experimenting with new technologies, building projects and looking for opportunities to turn ideas into useful software.
 
 ---
 
-## 👀 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhavyweb3&label=Profile%20Views&color=0e75b6&style=flat" />
+  <b>Thanks for visiting my profile!</b>
 </p>
 
----
-
-<h3 align="center">
-  🚀 Build • Learn • Code • Repeat 🔗
-</h3>
-
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
+  <i>Building with code today, exploring Web3 for tomorrow. 🚀</i>
 </p>
