@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Bhavya Goel
+#      👋 Hi, I'm Bhavya Goel
 
-### 🔗 Blockchain Developer | 💻 Web Developer | 🎓 CSE Blockchain Student
+###    🔗 Blockchain Developer | 💻 Web Developer | 🎓 CSE Blockchain Student
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3+Enthusiast;Smart+Contract+Developer;C%2B%2B+%7C+Python+%7C+Java+%7C+Solidity;Building+Projects+and+Learning+Every+Day!&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=1000" alt="Typing SVG">
