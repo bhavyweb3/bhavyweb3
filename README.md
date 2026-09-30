@@ -3,16 +3,7 @@
 ### Blockchain Developer · Web3 Enthusiast · CSE Blockchain Student
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3+Enthusiast;Smart+Contract+Developer;C%2B%2B+%7C+Python+%7C+Java+%7C+Solidity;Building+and+Learning+Every+Day&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=1000" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/bhavyweb3">
-    <img src="https://komarev.com/ghpvc/?username=bhavyweb3&label=Profile%20Views&style=flat-square" />
-  </a>
-  <a href="https://github.com/bhavyweb3?tab=followers">
-    <img src="https://img.shields.io/github/followers/bhavyweb3?style=flat-square&label=Followers" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3+Enthusiast;Smart+Contract+Developer;C%2B%2B+%7C+Python+%7C+Java+%7C+Solidity;Building+and+Learning+Every+Day&font=Fira+Code&center=true&width=750&height=55&size=26&duration=3000&pause=1000&color=FF3B3B" />
 </p>
 
 ---
@@ -104,6 +95,20 @@ A password management application focused on securely storing and managing crede
 
 ---
 
+## Areas of Interest
+
+<p align="center">
+
+`⛓️ Blockchain Development`   `🌐 Web3`   `📜 Smart Contracts`
+
+`💻 DSA & Problem Solving`   `🔐 Cybersecurity`   `🧠 Software Development`
+
+`🌍 Decentralized Applications`   `⚙️ Backend Development`   `🚀 Open Source`
+
+</p>
+
+---
+
 ## Currently Learning
 
 ```text
@@ -116,19 +121,8 @@ Solidity
 Web3 Development
         ↓
 DSA & Problem Solving
-```
-
----
-
-## Areas of Interest
-
-```text
-Blockchain       ████████████████████
-Web3             ██████████████████░░
-Solidity         ████████████████░░░░
-C++              ███████████████████░
-Python            ██████████████████░░
-DSA              ███████████████░░░░░
+        ↓
+Smart Contract Security
 ```
 
 ---
@@ -147,8 +141,8 @@ DSA              ███████████████░░░░░
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=bhavyweb3&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhavyweb3&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=bhavyweb3&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhavyweb3&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="180" />
 </p>
 
 <p align="center">
@@ -169,6 +163,14 @@ DSA              ███████████████░░░░░
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 💭 Daily Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
 </p>
 
 ---
