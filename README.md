@@ -1,188 +1,193 @@
-<h1 align="center">👋 Hey, I'm Bhavya Goel</h1>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=BLOCKCHAIN+DEVELOPER;WEB3+ENTHUSIAST;SMART+CONTRACT+DEVELOPER;C%2B%2B+%7C+PYTHON+%7C+JAVA;" alt="Typing SVG" />
-  </a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090B,50:312E81,100:8B5CF6&text=BHAVYA%20GOEL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=BLOCKCHAIN%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=13&descAlignY=60" alt="Bhavya Goel"/>
+
+<br/>
+
+<a href="https://github.com/bhavyweb3">
+  <img src="https://img.shields.io/badge/GitHub-bhavyweb3-18181B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/bhavya-goel-60544b364/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bhavyweb3&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Blockchain+Engineering+Student;Exploring+Web3+and+Smart+Contracts;Building+Projects+and+Learning+Every+Day" alt="Introduction"/>
+
 </div>
-
-<h3 align="center">CSE Blockchain Student | Blockchain & Web3 Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhavyweb3&label=Profile%20Views&color=red&style=flat" alt="Profile Views"/>
-</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering (Blockchain)**
-- 🔗 Interested in **Blockchain, Web3 & Smart Contracts**
-- 💻 Working with **C, C++, Python, Java & Solidity**
-- 🌐 Building projects using **HTML, CSS & JavaScript**
-- 🧠 Currently improving **DSA & Problem Solving**
-- ⛓️ Exploring **Ethereum & Decentralized Applications**
-- 🥊 Boxing & fitness enthusiast
+Hi, I'm **Bhavya Goel**, a B.Tech student specializing in **Computer Science and Blockchain at CGC University, Mohali**.
+
+I'm passionate about programming, blockchain technology, and building practical software projects. I enjoy learning by doing, exploring new tools, and improving my problem-solving skills.
+
+- 🔗 Exploring blockchain technology and Web3.
+- 💻 Practising C++, Python, Java, and JavaScript.
+- ⛓️ Learning Solidity and smart contract development.
+- 🛠️ Building practical projects and documenting my work.
+- 🤝 Interested in collaboration, internships, and open-source learning.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,solidity" />
-</p>
+**Programming Languages**
 
-### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" alt="C, C++, Python, Java"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<br/><br/>
 
-### ⛓️ Blockchain & Web3
+**Web Development**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript"/>
 
-<p>
-  <code>Smart Contracts</code>
-  <code>Remix IDE</code>
-  <code>MetaMask</code>
-  <code>Ganache</code>
-  <code>Sepolia</code>
-</p>
+<br/><br/>
 
-### 🔧 Tools & Databases
+**Blockchain & Web3**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="Solidity, Ethereum"/>
+
+<br/><br/>
+
+**Tools & Databases**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" alt="Git, GitHub, VS Code, MySQL"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Remix_IDE-8B5CF6?style=flat-square&logo=ethereum&logoColor=white" alt="Remix IDE"/>
+<img src="https://img.shields.io/badge/MetaMask-8B5CF6?style=flat-square&logo=metamask&logoColor=white" alt="MetaMask"/>
+<img src="https://img.shields.io/badge/Sepolia_Testnet-8B5CF6?style=flat-square&logo=ethereum&logoColor=white" alt="Sepolia"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🗳️ Decentralized Voting System
-Blockchain-based voting platform using **Solidity, Ethereum, MetaMask and JavaScript**.
+### 🔗 LandChain — Blockchain-Based Land Registry
 
-### 🥊 FIGHTLAB
-Full-stack Boxing & MMA platform built with **JavaScript, Node.js, Express.js and SQLite**.
+A project exploring how blockchain technology can support transparent and traceable digital land records.
+
+- Focuses on digital record management and traceability.
+- Explores blockchain applications for land registry systems.
+- Demonstrates practical blockchain concepts.
+
+**Focus:** Blockchain, Web Development, Digital Records.
+
+[Explore my repositories →](https://github.com/bhavyweb3?tab=repositories)
+
+---
+
+### 🗳️ Decentralized Voting System
+
+A college project exploring secure and transparent digital voting using blockchain technology.
+
+- Smart-contract-based voting workflow.
+- Designed to help prevent duplicate voting.
+- Frontend interface for interacting with the voting application.
+- Test transactions using the Sepolia test network.
+
+**Technologies:** HTML, CSS, JavaScript, Solidity, Remix IDE, MetaMask.
+
+[Explore my repositories →](https://github.com/bhavyweb3?tab=repositories)
+
+---
 
 ### 🔐 Secure Password Manager
-Python password manager using **SQLite, AES-256-GCM encryption and PBKDF2**.
+
+A programming project focused on managing password records and database operations.
+
+- Application logic and data storage.
+- SQL database integration.
+- Practical programming experience.
 
 ---
 
-## 🎮 Other Projects
+### 💻 C++ Programming Projects
 
-- 🥊 **IRON MIKE** — Browser-based boxing game using HTML, CSS & JavaScript.
-- 🎵 **Spotify Clone** — Spotify-inspired music player using HTML, CSS & JavaScript.
+A collection of programming exercises and projects that help me strengthen my programming fundamentals.
 
----
+- Problem-solving practice.
+- Functions, loops, and conditional statements.
+- Object-oriented programming concepts.
 
-## 📚 Current Focus
-
-```javascript
-const Bhavya = {
-    learning: [
-        "Blockchain Development",
-        "Web3",
-        "Solidity",
-        "Smart Contracts",
-        "Smart Contract Security",
-        "DSA"
-    ],
-
-    building: [
-        "Blockchain Applications",
-        "Web3 Projects",
-        "Full-Stack Projects"
-    ],
-
-    interests: [
-        "Ethereum",
-        "Decentralized Applications",
-        "Cybersecurity",
-        "Open Source"
-    ],
-
-    motto: "Build. Learn. Improve. Repeat."
-};
-```
-
-## 🎯 Goals
-
-- 🚀 Build practical **Blockchain & Web3 applications**
-- ⛓️ Improve **Solidity & Smart Contract development**
-- 🔐 Learn **Smart Contract Security**
-- 🧠 Strengthen **DSA & Problem Solving**
-- 🌍 Contribute to **Open Source**
-- 💻 Build more real-world projects
+[View all repositories →](https://github.com/bhavyweb3?tab=repositories)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavyweb3&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
-</p>
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=bhavyweb3&show_icons=true&hide_border=true&bg_color=09090B&title_color=C4B5FD&icon_color=A78BFA&text_color=E4E4E7&ring_color=8B5CF6&include_all_commits=true" width="100%" alt="GitHub statistics"/>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyweb3&layout=compact&hide_border=true&bg_color=09090B&title_color=C4B5FD&text_color=E4E4E7&langs_count=6" width="100%" alt="Top languages"/>
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=bhavyweb3&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170" />
+<img src="https://streak-stats.demolab.com?user=bhavyweb3&hide_border=true&background=09090B&ring=8B5CF6&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A1A1AA" width="75%" alt="GitHub contribution streak"/>
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhavyweb3&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bhavyweb3&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-<h2>🐍 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhavyweb3/bhavyweb3/output/github-snake.svg" alt="Contribution Snake">
-</p>
-
----
-## 💭 Daily Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
-</p>
+</div>
 
 ---
 
-## 🌍 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bhavyweb3/bhavyweb3/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen C++ and data structures and algorithms.
+- Improve Python and Java programming.
+- Learn more about Solidity and smart contract security.
+- Build practical blockchain and Web3 projects.
+- Improve Git, GitHub, and open-source collaboration skills.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in learning, sharing ideas, and collaborating with other developers.
+
+<br/>
 
 <a href="https://github.com/bhavyweb3">
-  <img src="https://img.shields.io/badge/GitHub-bhavyweb3-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-18181B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/bhavya-goel-60544b364/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.linkedin.com/in/bhavya-goel-60544b364">
-  <img src="https://img.shields.io/badge/LinkedIn-Bhavya%20Goel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br/><br/>
 
-<a href="mailto:bhavyagoel01102006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bhavyagoel01102006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+*Learning consistently. Building thoughtfully. Improving every day.*
 
-</p>
+</div>
 
----
-
-<p align="center">
-  <b>Build. Learn. Improve. Repeat.</b>
-</p>
-
-<p align="center">
-  <i>Building with code today, exploring Web3 for tomorrow. 🚀</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,50:312E81,100:09090B" width="100%" alt="Footer"/>
